@@ -71,3 +71,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
+chue's summary documentation for this project
+
+I use the chakra-ui for the curency listing page table
+axios use for api binding 
+chart.js for the coin market chart in home page (react-chartjs-2 aslo same )
+moment for the MM-DD-YYYY to show in chart
+prop-types use for type-checking and validating the props that are passed to a component
+react-hook-form using for form in contactus page
+
+
+
+
+
+1. get the https key from my github link
+2. write comment - git clone ' https key '
+3. write comment - npm i react-scripts
+4. write comment - npm start
+
+
+<!-- please kindly check my chart api is often fail so need to do  go their website and refresh the api , sometime wait a movement that will get back sorry for this or (another way is plz let me know when you test api is nor ok , i will update from my side ). I hope when you test api will work  -->
+
+
+
