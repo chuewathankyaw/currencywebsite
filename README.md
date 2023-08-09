@@ -90,7 +90,7 @@ react-hook-form using for form in contactus page
 4. write comment - npm start
 
 
-<!-- please kindly check my chart api is often fail so need to do  go their website and refresh the api , sometime wait a movement that will get back sorry for this or (another way is plz let me know when you test api is nor ok , i will update from my side ). I hope when you test api will work  -->
+please kindly check my chart api is often fail so need to do  go their website and refresh the api , sometime wait a movement that will get back sorry for this or (another way is plz let me know when you test api is nor ok , i will update from my side ). I hope when you test api will work 
 
 
 
