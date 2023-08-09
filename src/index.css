@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.banner {
+  background-image: url('../src/image/nasa.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 30rem;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+   
+}
+.currencybanner {
+  background-image: url('../src/image/banner.jpg');
+  background-size: cover;
+  background-position: center;
+   
+}
+
+.chart-container {
+  margin: 0 auto; /* Center horizontally */
+  display: flex;
+  justify-content: center; /* Center vertically within flex container */
+  align-items: center;
+  
+}
